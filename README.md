@@ -12,9 +12,9 @@ These services run in a high-availability environment, patched and supported, al
 
 
 ## Template Solution Architecture
--Traffic Manager
--Storage Account
--App plan Service
--SQL Database
+- Traffic Manager
+- Storage Account
+- App plan Service
+- SQL Database
 
 <img src="./images/1.png">
