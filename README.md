@@ -4,6 +4,7 @@
 
 1. [Solution Overview](#solution-overview)
 2. [Template Solution Architecture ](#template-solution-architecture)
+3. [Deployment Steps](#deployment-steps)
 
 ## Solution Overview 
 A mobile client app for social image sharing and with a companion web app. The app backend does background image processing using an Azure Function. The mobile client app works in offline mode, allowing you to view and upload images even when you don’t have a network connection.
