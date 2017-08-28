@@ -16,6 +16,8 @@ These services run in a high-availability environment, patched and supported, al
 - Traffic Manager
 - Storage Account
 - App plan Service
+- Application Insights
 - SQL Database
+- Notification Hub
 
 <img src="./images/1.png">
